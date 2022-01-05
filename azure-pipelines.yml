@@ -50,3 +50,4 @@ steps:
     arguments: --world Venus
 
 - script: python src/scriptrepo.py
+  displayName: 'scriptrepo'
