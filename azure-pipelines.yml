@@ -48,3 +48,5 @@ steps:
       args = parser.parse_args()
       print ('Hello ', args.world)
     arguments: --world Venus
+
+- script: python src/scriptrepo.py
